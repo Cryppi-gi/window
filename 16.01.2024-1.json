@@ -1,0 +1,26 @@
+{
+    "name": "Taylor Taylor",
+    "age": 87,
+    "address": {
+        "street": "Jenkins Road",
+        "city": "New Michael",
+        "state": "Virginia",
+        "zip": "88141"
+    },
+    "contact": {
+        "phone": "(299)906-4529",
+        "servicePhone": "800017448"
+    },
+    "birthday": "1938-16-01",
+    "ip": "223.3.115.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Trade its exactly perhaps. Many both however music believe realize. Apply enjoy lose section.\nThus radio various way home. Who chair sure different.",
+        "bio": "Congress deal part should reflect. Page technology through much seven determine first."
+    },
+    "apiKey": "5d0502609d58ee9e9d41702f77d3abe192a21c450b8a506634b4a4d0504061f8",
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
