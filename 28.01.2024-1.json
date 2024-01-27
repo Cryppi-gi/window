@@ -1,0 +1,26 @@
+{
+    "name": "Sandra Garcia",
+    "age": 76,
+    "address": {
+        "street": "Kristin Roads",
+        "city": "New Aliciaside",
+        "state": "Maryland",
+        "zip": "99403"
+    },
+    "contact": {
+        "phone": "761-420-4837x4878",
+        "servicePhone": "800519074"
+    },
+    "birthday": "1949-09-01",
+    "ip": "84.195.85.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Age many paper third prove use. Responsibility appear letter option method. Win specific close let live system.",
+        "bio": "Far house start would or station reduce. List positive television put artist change wait. Wear apply factor check environment. Record mouth board.\nSimple discuss public hotel four major item."
+    },
+    "apiKey": "7c83d8073ea421ace914d311c62b69b3701a1baecd7ba271a1347d486482e0e6",
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
