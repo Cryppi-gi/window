@@ -1,0 +1,26 @@
+{
+    "name": "Holly Barron",
+    "age": 13,
+    "address": {
+        "street": "Becky Knolls",
+        "city": "Calebborough",
+        "state": "Utah",
+        "zip": "42314"
+    },
+    "contact": {
+        "phone": "713.911.4477",
+        "servicePhone": "800781648"
+    },
+    "birthday": "2012-23-04",
+    "ip": "28.2.163.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight according question eight suddenly chair keep. Fear party often huge rather most buy. Sit weight art best determine sell.",
+        "bio": "Her marriage nature upon find between cover. Final must it."
+    },
+    "apiKey": "2ffdb771dbc055511c8371524d07f0aba0e0506cb0f5f3b376b524260d3bde4d",
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
