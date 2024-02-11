@@ -1,0 +1,26 @@
+{
+    "name": "Timothy Adams Jr.",
+    "age": 46,
+    "address": {
+        "street": "Andrea Shore",
+        "city": "Cookport",
+        "state": "New York",
+        "zip": "77003"
+    },
+    "contact": {
+        "phone": "430.421.3025",
+        "servicePhone": "800937720"
+    },
+    "birthday": "1979-01-02",
+    "ip": "24.236.219.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever indicate again next identify care.\nMany political better seat.\nShare challenge number four. How think positive dark. Everything they heavy run point head.",
+        "bio": "Than turn Democrat matter. Late call decision serve job. Involve ground management oil safe economy.\nDebate whether mother trip. General food wait consider."
+    },
+    "apiKey": "b61575cf9a0de7f93719d59a6e7305144af8122851ceda6f7eee5259ece8a65c",
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
