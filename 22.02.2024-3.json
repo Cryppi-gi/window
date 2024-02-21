@@ -1,0 +1,26 @@
+{
+    "name": "Robin Bernard",
+    "age": 74,
+    "address": {
+        "street": "Hughes Village",
+        "city": "New Curtisshire",
+        "state": "Michigan",
+        "zip": "16638"
+    },
+    "contact": {
+        "phone": "351.758.2814x473",
+        "servicePhone": "800602188"
+    },
+    "birthday": "1951-03-09",
+    "ip": "94.240.189.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight design measure other director investment race. Goal customer guy scene magazine agent become third. Sport action sort how drug nature.",
+        "bio": "Tough whose clear common beyond water challenge. Throughout baby institution smile analysis top. Second run Republican a nice such."
+    },
+    "apiKey": "fcfbd99aa82e0621bdf4673716797153c4171b834b250ee7d4de2a0aad27358e",
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
