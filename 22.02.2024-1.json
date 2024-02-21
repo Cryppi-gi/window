@@ -1,0 +1,26 @@
+{
+    "name": "Peggy Strickland",
+    "age": 67,
+    "address": {
+        "street": "James Junction",
+        "city": "Austinbury",
+        "state": "Indiana",
+        "zip": "46058"
+    },
+    "contact": {
+        "phone": "871.573.1438",
+        "servicePhone": "800618196"
+    },
+    "birthday": "1958-11-06",
+    "ip": "17.97.104.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Protect big citizen past rise create treatment. Like another series book lawyer natural. No left appear thought case.",
+        "bio": "Citizen wait turn enough child company. Entire Mr be then full.\nWatch more attorney high rate."
+    },
+    "apiKey": "658907b75eae6b52155a108cfc4ce586b0190a10f922e87cebafd48db217a3cf",
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
