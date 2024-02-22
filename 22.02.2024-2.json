@@ -1,0 +1,26 @@
+{
+    "name": "Judy Smith",
+    "age": 92,
+    "address": {
+        "street": "Jacobs Village",
+        "city": "West Vanessabury",
+        "state": "South Dakota",
+        "zip": "62163"
+    },
+    "contact": {
+        "phone": "+1-455-935-5633x94392",
+        "servicePhone": "800771655"
+    },
+    "birthday": "1933-21-04",
+    "ip": "122.54.147.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Another blood song court surface. Mother PM voice including large bill adult. Employee soon throw after history according research bit.",
+        "bio": "Yet street interest report share most marriage. Any them start price either civil student medical."
+    },
+    "apiKey": "7f24286e28bebaef7bdf4ce099328eae37edabbe7e0fd9bcd306e0a83426d013",
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
