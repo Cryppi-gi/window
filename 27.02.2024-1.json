@@ -1,0 +1,26 @@
+{
+    "name": "Suzanne Hughes",
+    "age": 77,
+    "address": {
+        "street": "Calvin Port",
+        "city": "Angelaborough",
+        "state": "Nevada",
+        "zip": "21771"
+    },
+    "contact": {
+        "phone": "(675)621-6218x300",
+        "servicePhone": "800936947"
+    },
+    "birthday": "1948-19-06",
+    "ip": "63.94.2.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Probably civil defense away could eat evening attack.\nBuy audience carry government individual there reveal. Smile parent theory perform tax loss mission.",
+        "bio": "Western score finish lead professional per. Federal on performance cup to guy.\nDespite executive the catch. North guess benefit wonder prepare. Follow point person relationship onto."
+    },
+    "apiKey": "504d2be1b367546685d35bbb56615ff949577b9a3b59219b7be0d5f48c8b7078",
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
