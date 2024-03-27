@@ -1,0 +1,26 @@
+{
+    "name": "Travis Bryant",
+    "age": 62,
+    "address": {
+        "street": "Bruce Alley",
+        "city": "West Robert",
+        "state": "Kansas",
+        "zip": "01734"
+    },
+    "contact": {
+        "phone": "316-309-7187",
+        "servicePhone": "800011796"
+    },
+    "birthday": "1963-17-07",
+    "ip": "58.153.119.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen professor minute season. Science talk Congress. Decision candidate type college.\nIndividual available agreement reality high travel if. Single idea democratic other subject run.",
+        "bio": "Soon start structure page away everybody. Beat open four stuff pattern government put.\nTop same true within official fine. Car like fine kind production across catch record."
+    },
+    "apiKey": "3860303acc77d65c214f5bc92a77b94279081611160da2400e32d17851fc3287",
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
