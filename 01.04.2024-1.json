@@ -1,0 +1,26 @@
+{
+    "name": "Michael Hoffman",
+    "age": 12,
+    "address": {
+        "street": "Lewis Locks",
+        "city": "West Joshua",
+        "state": "Michigan",
+        "zip": "32200"
+    },
+    "contact": {
+        "phone": "+1-526-296-1542x31588",
+        "servicePhone": "800671737"
+    },
+    "birthday": "2013-01-07",
+    "ip": "71.182.189.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon old indicate. Culture woman build amount my least. Majority lose common better suffer executive pretty.\nUntil face life threat agency answer nor action.",
+        "bio": "Ball card skill seven. Home buy television beat arm list. Eye focus must north church artist night."
+    },
+    "apiKey": "cf221f8be223e739316c555df8993283ab60a648b0c1552f1b2f3465b1968c26",
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
