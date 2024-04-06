@@ -1,0 +1,26 @@
+{
+    "name": "John Clark",
+    "age": 53,
+    "address": {
+        "street": "Courtney Corners",
+        "city": "Benjamintown",
+        "state": "Illinois",
+        "zip": "85602"
+    },
+    "contact": {
+        "phone": "001-788-309-4255x34893",
+        "servicePhone": "800698869"
+    },
+    "birthday": "1972-14-12",
+    "ip": "49.167.158.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Major either pattern national think. Own bank into house.\nBlack town theory speech house provide range tonight. Threat well record him next area. Order court almost cold hospital source.",
+        "bio": "Just little attack around strong present. Can term star source guess question remain. Above yourself under buy book significant practice."
+    },
+    "apiKey": "22ceccc9f9ee2cf47983a8b172187767e658fba460237ba9d03b0feaeb8a19e3",
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
