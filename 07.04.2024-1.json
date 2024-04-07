@@ -1,0 +1,26 @@
+{
+    "name": "Michelle Ibarra",
+    "age": 3,
+    "address": {
+        "street": "West Ramp",
+        "city": "Randyhaven",
+        "state": "Idaho",
+        "zip": "38097"
+    },
+    "contact": {
+        "phone": "001-909-646-9812x59830",
+        "servicePhone": "800068810"
+    },
+    "birthday": "2022-03-11",
+    "ip": "60.136.170.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Else study wonder protect officer about explain. Never win six.\nEnvironmental decision well meeting. Money coach maybe them.",
+        "bio": "Trade control role room father newspaper activity. Human not accept a history. Song picture best this.\nTop network will senior language. Pull alone threat worker house. Conference garden film still."
+    },
+    "apiKey": "314fe30f956565962ae94f9f2c44fc9b83ca391f40899898e5196de393a0f00c",
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
