@@ -1,0 +1,26 @@
+{
+    "name": "John Lopez",
+    "age": 115,
+    "address": {
+        "street": "Timothy Station",
+        "city": "South Natalie",
+        "state": "Florida",
+        "zip": "09220"
+    },
+    "contact": {
+        "phone": "+1-861-732-3791x660",
+        "servicePhone": "800870069"
+    },
+    "birthday": "1910-01-02",
+    "ip": "90.174.123.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Teach hear kid floor them.\nRequire factor thing necessary. Later play bring enjoy.\nHeart guy key fast across dream. Brother must lay now form thus. Soon effect man suffer window structure.",
+        "bio": "Kitchen lawyer market staff nature. Name hundred as ever teach tough.\nSeem life party occur ok nothing. Agreement democratic air present."
+    },
+    "apiKey": "744344c4f550bdc24d614ef71bc59d13972bc3c38bbb7042a1fd2fcbf91d2859",
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
