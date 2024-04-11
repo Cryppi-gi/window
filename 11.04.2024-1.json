@@ -1,0 +1,26 @@
+{
+    "name": "Lisa Cole",
+    "age": 23,
+    "address": {
+        "street": "Keith Plains",
+        "city": "Lake Tiffany",
+        "state": "Vermont",
+        "zip": "60769"
+    },
+    "contact": {
+        "phone": "545-776-8791",
+        "servicePhone": "800971549"
+    },
+    "birthday": "2002-11-09",
+    "ip": "114.33.57.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense leg learn bank source nor real. Another social question up trial that.\nIndicate seem environmental good. Would financial focus threat class bad else. Leg success knowledge.",
+        "bio": "Health hundred short agree reduce sometimes. Cell child position enjoy. Food election really rock natural piece case.\nChoice decide blood subject. They game meeting. Law store act speak even."
+    },
+    "apiKey": "0f7920e2095e4bba8fe8aea04b2b26484b302baaca9e7e68bc9ca6a95ccdd5d6",
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
