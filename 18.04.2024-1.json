@@ -1,0 +1,26 @@
+{
+    "name": "Michael Adams",
+    "age": 63,
+    "address": {
+        "street": "Perez Points",
+        "city": "Margaretstad",
+        "state": "North Dakota",
+        "zip": "19833"
+    },
+    "contact": {
+        "phone": "+1-348-516-4175",
+        "servicePhone": "800977174"
+    },
+    "birthday": "1962-03-09",
+    "ip": "210.89.65.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern look large site. If he physical future. Simply music method receive rock close almost grow.\nNotice call increase PM less. Each think painting could deal quite carry.",
+        "bio": "Area claim site teach truth. Their born card.\nCouple peace Mr add. Yeah study three build. Still hot hundred eight.\nWeight throw concern suddenly main. Summer after traditional new early."
+    },
+    "apiKey": "8e37f10412dbea95e48b44bc6fb0ec667b8b2ca0bc541069ae714260e4f57331",
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
