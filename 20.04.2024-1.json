@@ -1,0 +1,26 @@
+{
+    "name": "Russell Duncan",
+    "age": 115,
+    "address": {
+        "street": "Herrera Circles",
+        "city": "Port Christina",
+        "state": "Montana",
+        "zip": "81897"
+    },
+    "contact": {
+        "phone": "001-984-750-7218x95178",
+        "servicePhone": "800871977"
+    },
+    "birthday": "1910-07-08",
+    "ip": "181.134.6.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Rule window cell trip. Music environment this eye. Yet life list go our future follow.",
+        "bio": "Call stop south risk. Focus money close arm. Attorney as reflect school hour.\nDream would political politics all wrong. Scene night cold rock us attorney occur hard."
+    },
+    "apiKey": "819069d45ce697a54a3d5ad62218308857fa8f04318c3fa75b1a1bf5a594db71",
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
