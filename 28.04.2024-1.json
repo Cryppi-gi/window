@@ -1,0 +1,26 @@
+{
+    "name": "Ann Herrera",
+    "age": 34,
+    "address": {
+        "street": "Jeffery Bypass",
+        "city": "Jasonchester",
+        "state": "New Hampshire",
+        "zip": "76907"
+    },
+    "contact": {
+        "phone": "536.592.2025x0434",
+        "servicePhone": "800769272"
+    },
+    "birthday": "1991-27-01",
+    "ip": "114.61.134.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural you moment dream. Us we matter year market.\nMoment thought stage simply seem. Skill begin candidate many economic member traditional. World character score camera.",
+        "bio": "Off rate game for forward. Enter interesting history keep value entire no experience. Black learn sign him commercial place various."
+    },
+    "apiKey": "df5347bc37bf43d99b4df31f4a430bbdf216470178fd7d43037ce8c9ae0e3792",
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
