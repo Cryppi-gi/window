@@ -1,0 +1,26 @@
+{
+    "name": "Michelle Morales",
+    "age": 7,
+    "address": {
+        "street": "Allison Plaza",
+        "city": "Port Samantha",
+        "state": "Wyoming",
+        "zip": "77497"
+    },
+    "contact": {
+        "phone": "(727)368-8857",
+        "servicePhone": "800658973"
+    },
+    "birthday": "2018-29-08",
+    "ip": "131.29.245.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Material nothing who particular war full. Cost though term almost. Involve form time cause term force billion.\nMyself visit also woman. Arm window become push language impact.",
+        "bio": "Rule cultural your light paper. Every late other health quite affect. Yes yard mouth pull feeling type actually now.\nLarge most rule whole anything scene. Ground court certain civil hot."
+    },
+    "apiKey": "36c1f71a6d2892d7a038eddb9f8301d82fd90376ba76dc595abc9d37390ce28e",
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
