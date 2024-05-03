@@ -1,0 +1,26 @@
+{
+    "name": "Hannah Stout",
+    "age": 73,
+    "address": {
+        "street": "Long Knolls",
+        "city": "Michaelside",
+        "state": "Massachusetts",
+        "zip": "90561"
+    },
+    "contact": {
+        "phone": "001-894-652-7276x19684",
+        "servicePhone": "800306257"
+    },
+    "birthday": "1952-22-10",
+    "ip": "118.101.134.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy boy population economic respond apply. Professional recognize Mr stock business environmental loss.\nAvoid official front.",
+        "bio": "Information hit physical under either speak. Health these theory.\nRather ready against these him. Congress which rise including little. Property report I able network ever."
+    },
+    "apiKey": "5b9c4d0ce19c5c991b3205803a0918a69a70aa421fa21d9c5bf27bad6a9fe1d4",
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
