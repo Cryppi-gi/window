@@ -1,0 +1,26 @@
+{
+    "name": "Melinda Knight",
+    "age": 15,
+    "address": {
+        "street": "Huffman Stravenue",
+        "city": "West Catherine",
+        "state": "Ohio",
+        "zip": "44937"
+    },
+    "contact": {
+        "phone": "2176274629",
+        "servicePhone": "800244393"
+    },
+    "birthday": "2010-28-05",
+    "ip": "41.150.112.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Human live without ago hour. Usually government order food ago good yet. Born central require ok.\nPerhaps high address member produce.\nBest address news live animal six.",
+        "bio": "With standard wear require two. Young interesting next second miss wife. Run sure worker Mr feeling option here administration.\nPush marriage interview."
+    },
+    "apiKey": "0c4c1d7b652030aec453c485e330dd98948432982f9c45d2fb86dfea66f17120",
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
