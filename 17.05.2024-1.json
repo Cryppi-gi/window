@@ -1,0 +1,26 @@
+{
+    "name": "Andrew Rivera",
+    "age": 57,
+    "address": {
+        "street": "Joshua Road",
+        "city": "South Lisatown",
+        "state": "Oklahoma",
+        "zip": "28900"
+    },
+    "contact": {
+        "phone": "(934)338-1408",
+        "servicePhone": "800674192"
+    },
+    "birthday": "1968-18-07",
+    "ip": "80.223.161.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Unit continue mean heavy wife meet.\nLate role born reality son interest. Former eight factor stop positive. Blood environment gun. Usually listen Democrat its police generation property trip.",
+        "bio": "Authority leave realize four.\nReal social matter cover gun rather. Spend other go simply whole back throw approach. Serious certain individual born simple with."
+    },
+    "apiKey": "1e4bf6586eb3dc34942f1cfa1df517ca79c5ccee9d3a0a2813253e51f0b76df7",
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
