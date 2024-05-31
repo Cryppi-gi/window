@@ -1,0 +1,26 @@
+{
+    "name": "Jade Buchanan",
+    "age": 33,
+    "address": {
+        "street": "Johnson Ramp",
+        "city": "Port Antonioland",
+        "state": "Florida",
+        "zip": "60749"
+    },
+    "contact": {
+        "phone": "413.874.3897",
+        "servicePhone": "800222098"
+    },
+    "birthday": "1992-15-09",
+    "ip": "1.46.222.50",
+    "foo": "bar",
+    "profile": {
+        "about": "System difference site offer. Free film fear none various. Difficult trouble admit performance once society go.\nTrade seek near across. Very or agent person about particularly fly.",
+        "bio": "Agent capital action watch must affect. North movement keep service even. Follow sure big. Trouble ever center house lawyer partner."
+    },
+    "apiKey": "75db0842743f81cb30934edfcdb80dd62e9173c51f45c8e47df525c5f2ffb17f",
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
