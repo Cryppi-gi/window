@@ -1,0 +1,26 @@
+{
+    "name": "Travis Pena",
+    "age": 29,
+    "address": {
+        "street": "Arthur Tunnel",
+        "city": "South Kerry",
+        "state": "Alabama",
+        "zip": "45015"
+    },
+    "contact": {
+        "phone": "+1-831-740-2419",
+        "servicePhone": "800089916"
+    },
+    "birthday": "1996-02-05",
+    "ip": "146.119.175.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone even reflect chair. Type very when personal which second. Mother mean apply among at owner daughter.\nNone dinner machine. Argue behavior person decade.",
+        "bio": "Accept ground pull ago. Land little least this town shake. Rich condition world both her professor figure firm. Work three radio radio fact."
+    },
+    "apiKey": "54d02a2a0cd906aec8c950010f0413bb270d3f56694afa745c2f35108a6aa590",
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
