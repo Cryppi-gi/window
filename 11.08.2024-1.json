@@ -1,0 +1,26 @@
+{
+    "name": "Benjamin Moyer",
+    "age": 24,
+    "address": {
+        "street": "Robert Crescent",
+        "city": "Baxterstad",
+        "state": "Mississippi",
+        "zip": "99048"
+    },
+    "contact": {
+        "phone": "522.558.4300x74815",
+        "servicePhone": "800563593"
+    },
+    "birthday": "2001-17-02",
+    "ip": "205.219.166.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Situation democratic hour. Near art board white treatment college imagine. Water gun action often involve charge leader.",
+        "bio": "Its single yet thing degree. Follow recognize including point town weight former.\nAll evening financial hair. Party local cultural whom produce stop whole."
+    },
+    "apiKey": "4efaed556edb9f1a33d6efcb623c49f9ac6f872c3df7a9444c7426909080471a",
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
