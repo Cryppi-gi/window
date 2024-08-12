@@ -1,0 +1,26 @@
+{
+    "name": "Tracy Mcguire",
+    "age": 27,
+    "address": {
+        "street": "Mejia Spurs",
+        "city": "Clarkeberg",
+        "state": "Ohio",
+        "zip": "92922"
+    },
+    "contact": {
+        "phone": "781.761.7783",
+        "servicePhone": "800126894"
+    },
+    "birthday": "1998-30-09",
+    "ip": "49.230.73.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody do cost. Buy matter sign these nice western woman.\nOutside president than exactly suddenly fast. Green check contain so.",
+        "bio": "Firm expect smile suffer determine even physical. Performance stay writer write somebody between couple.\nThan through suggest rise whose town four. Economy toward quickly measure arm out."
+    },
+    "apiKey": "6495e6bb0d085782f9fe787387f69e7863043a8bedd13ce4b6669a90678b53df",
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
