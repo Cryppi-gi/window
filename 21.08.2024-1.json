@@ -1,0 +1,26 @@
+{
+    "name": "Nicole Clarke",
+    "age": 50,
+    "address": {
+        "street": "Price Forge",
+        "city": "Stephaniemouth",
+        "state": "Maryland",
+        "zip": "36617"
+    },
+    "contact": {
+        "phone": "+1-578-665-8800x4102",
+        "servicePhone": "800497007"
+    },
+    "birthday": "1975-23-11",
+    "ip": "203.11.23.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce prepare plan media us yeah. Decade Democrat main recognize majority.\nMoney each air necessary ground. Development man begin heart cut theory. Summer media his until culture nothing economic.",
+        "bio": "Me maybe beautiful. Shake line design reach hold."
+    },
+    "apiKey": "1121534ff7a610c376dc0e1696df7c65230cbebe4037f3848909d94ab10e421d",
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
