@@ -1,0 +1,26 @@
+{
+    "name": "Angela Adams",
+    "age": 105,
+    "address": {
+        "street": "Eric Club",
+        "city": "Lake Jenniferborough",
+        "state": "Kentucky",
+        "zip": "40126"
+    },
+    "contact": {
+        "phone": "270.814.7749x86976",
+        "servicePhone": "800305383"
+    },
+    "birthday": "1920-10-11",
+    "ip": "222.32.27.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Some month party strong. Listen him bank here defense.\nTeam own until tough notice quickly. Prevent type he entire key professional. Reveal teacher seem able.",
+        "bio": "Network nearly interesting bill town plant miss. Begin beautiful wind list fish. Mind purpose mind sister. Knowledge line movement food field entire."
+    },
+    "apiKey": "046abc356c1e4536bc7fbfd66de8e2e241a824ec19337ca0c01f124f92245227",
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
