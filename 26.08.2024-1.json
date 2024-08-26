@@ -1,0 +1,26 @@
+{
+    "name": "Carrie Mullins",
+    "age": 3,
+    "address": {
+        "street": "Johnson Mountains",
+        "city": "Port Andrewmouth",
+        "state": "West Virginia",
+        "zip": "72586"
+    },
+    "contact": {
+        "phone": "(491)579-2722x660",
+        "servicePhone": "800813816"
+    },
+    "birthday": "2022-06-09",
+    "ip": "68.102.18.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop share issue sport personal sign. Buy actually official Democrat. Western choice friend strong too.\nBlood especially those quickly mouth purpose. Great woman focus best lay.",
+        "bio": "Think power stand enjoy account meeting real travel.\nCut another everybody international wonder. Training help former treat western already."
+    },
+    "apiKey": "d4ca453d9b2977ddf34a271bfee4c8be1d64a35492de24253c10ad0c8bd3cfa4",
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
