@@ -1,0 +1,26 @@
+{
+    "name": "Michael Strong",
+    "age": 11,
+    "address": {
+        "street": "Baker Plain",
+        "city": "Waynestad",
+        "state": "Michigan",
+        "zip": "26502"
+    },
+    "contact": {
+        "phone": "7603581393",
+        "servicePhone": "800122686"
+    },
+    "birthday": "2014-28-03",
+    "ip": "79.168.255.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed will argue drop born simply.\nNever difficult special fact. Writer we see go rise model. Community whether house accept wrong above. Discuss expert up person star ten.",
+        "bio": "Finally home political student expect that. Miss call available. Involve drive compare than history opportunity phone."
+    },
+    "apiKey": "7e1ade8d8a2e7db2b70de64bb96588b8c4799bde61f2e4bac3b66925928742e8",
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
