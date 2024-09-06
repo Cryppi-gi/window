@@ -1,0 +1,26 @@
+{
+    "name": "Albert Greene",
+    "age": 33,
+    "address": {
+        "street": "Daniel Garden",
+        "city": "East Kathleen",
+        "state": "Alaska",
+        "zip": "54079"
+    },
+    "contact": {
+        "phone": "(379)646-2177",
+        "servicePhone": "800708950"
+    },
+    "birthday": "1992-10-01",
+    "ip": "81.32.150.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent attorney though him style. Artist may toward involve happen.\nHuman word court the risk. Animal first move simply term.",
+        "bio": "Generation heavy consider marriage model else even. Least sea picture major media meet PM. Art fire check live figure."
+    },
+    "apiKey": "aea386c6a5c6ec4fe55ad2ca61491f6ae84dbc3eece28bdeda36dde74e39b839",
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
