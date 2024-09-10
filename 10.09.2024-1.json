@@ -1,0 +1,26 @@
+{
+    "name": "John Murray",
+    "age": 73,
+    "address": {
+        "street": "Brandon Isle",
+        "city": "New Derekfurt",
+        "state": "Illinois",
+        "zip": "54573"
+    },
+    "contact": {
+        "phone": "714.818.0164",
+        "servicePhone": "800224289"
+    },
+    "birthday": "1952-16-08",
+    "ip": "110.52.37.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps at western nor pattern. Agency agent store their answer. Service summer college some choice present read.",
+        "bio": "While force radio pull. Wrong computer some star seat over learn.\nSame police player analysis prepare parent remain. Time right finish suddenly reveal size each your."
+    },
+    "apiKey": "ccd8f56936079c7a629e4a0eac410d918174314e4225a32396a8c14bc8e5804c",
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
