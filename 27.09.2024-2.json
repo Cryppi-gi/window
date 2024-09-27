@@ -1,0 +1,26 @@
+{
+    "name": "Allison Adams",
+    "age": 78,
+    "address": {
+        "street": "Ashley Garden",
+        "city": "Walkerfurt",
+        "state": "Alaska",
+        "zip": "72078"
+    },
+    "contact": {
+        "phone": "001-245-559-8829x921",
+        "servicePhone": "800529077"
+    },
+    "birthday": "1947-09-01",
+    "ip": "160.96.104.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff art collection future get society. Quality reason whether hot certain move. Culture two friend bill lawyer look write clearly. Most single Mr build resource.",
+        "bio": "Help society list also. Hour name her law ten debate mind.\nFilm minute culture skill.\nDown organization subject east trip quite expect. Important for true chair every democratic."
+    },
+    "apiKey": "5b8d12ec9e241ac4c8be2604b7c91ff4891b784c46473779610e2d121c5021d5",
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
