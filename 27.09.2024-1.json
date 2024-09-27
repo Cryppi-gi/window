@@ -1,0 +1,26 @@
+{
+    "name": "William Alvarez",
+    "age": 76,
+    "address": {
+        "street": "Schmidt Forks",
+        "city": "Lake Ericfurt",
+        "state": "Nebraska",
+        "zip": "82701"
+    },
+    "contact": {
+        "phone": "+1-287-966-2309x02517",
+        "servicePhone": "800202112"
+    },
+    "birthday": "1949-11-04",
+    "ip": "46.128.1.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe program gun. Upon garden build range summer what quite behind.\nGirl police section offer far together wide control. Himself international write reflect. Have floor make always peace yeah.",
+        "bio": "Join recognize more special option score. Citizen where production meet million."
+    },
+    "apiKey": "a988c38a6a863866228bbb87952cb420728bbb5b6418f34a62a2fcbe060f6503",
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
