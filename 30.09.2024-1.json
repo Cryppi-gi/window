@@ -1,0 +1,26 @@
+{
+    "name": "Amy Lee",
+    "age": 59,
+    "address": {
+        "street": "George Plains",
+        "city": "Chelseaville",
+        "state": "New Hampshire",
+        "zip": "25979"
+    },
+    "contact": {
+        "phone": "795.903.6642x18766",
+        "servicePhone": "800081271"
+    },
+    "birthday": "1966-12-09",
+    "ip": "21.1.34.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean cause body sign. Same wrong almost do.\nTreat local morning along base. Yard two bed between.",
+        "bio": "Discuss father ask enjoy. Performance religious charge have happen notice wife."
+    },
+    "apiKey": "3574787a9e4961fecfb567dacd3e0e49fdbd9e1b72821c121907615df5a49bf2",
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
