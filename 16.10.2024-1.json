@@ -1,0 +1,26 @@
+{
+    "name": "Suzanne Freeman",
+    "age": 84,
+    "address": {
+        "street": "Robert Plains",
+        "city": "Adamsville",
+        "state": "Arizona",
+        "zip": "89227"
+    },
+    "contact": {
+        "phone": "250.726.2216x3364",
+        "servicePhone": "800454956"
+    },
+    "birthday": "1941-07-02",
+    "ip": "102.221.110.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue although education anyone fund Democrat lay. Back kind line despite eye listen good. Room hard paper doctor.",
+        "bio": "Almost music though the job. Away character deal present news owner light body.\nGreen growth image western owner action election. Professional truth laugh sea. Job third do camera she."
+    },
+    "apiKey": "e5a758bdaea82b9a22ea80b8a3fe0fe47415393616a660c59b1955661fa97ca3",
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
