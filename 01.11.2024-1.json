@@ -1,0 +1,26 @@
+{
+    "name": "Brandi Brennan",
+    "age": 58,
+    "address": {
+        "street": "Michael Trail",
+        "city": "Lake Virginialand",
+        "state": "Delaware",
+        "zip": "16086"
+    },
+    "contact": {
+        "phone": "927.850.7624x01446",
+        "servicePhone": "800024435"
+    },
+    "birthday": "1967-23-08",
+    "ip": "197.185.31.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Five president beyond likely can enjoy fill.\nSimple author next whose sing meeting. Might five cover must. But politics security establish.",
+        "bio": "Think speak audience hand their rate buy. Economic identify artist picture clearly until word benefit. Major nice modern natural hold."
+    },
+    "apiKey": "1ac4d1298c2dfd13e89e50bcff26592d6f45eca14b874da414f0cb928ccdbd73",
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
