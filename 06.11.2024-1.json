@@ -1,0 +1,26 @@
+{
+    "name": "Mary Hall",
+    "age": 87,
+    "address": {
+        "street": "Kristi Loaf",
+        "city": "Alvaradoton",
+        "state": "Michigan",
+        "zip": "74697"
+    },
+    "contact": {
+        "phone": "(760)556-6581",
+        "servicePhone": "800600250"
+    },
+    "birthday": "1938-10-06",
+    "ip": "14.81.214.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit practice feeling me. Nature usually produce start. West cut eat full tell number.\nPolicy rather age number perform hard. Positive upon avoid news.",
+        "bio": "Sport run his defense expect part. Seat professional party director. Free improve act friend to eye thus look.\nClaim tonight lose behind catch continue party. Perform at card dinner control."
+    },
+    "apiKey": "4ca8ee454604a7ff7231715a3dc64104fa9f9092705b9a543886377e9a75e13f",
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
