@@ -1,0 +1,26 @@
+{
+    "name": "Edward Griffin",
+    "age": 75,
+    "address": {
+        "street": "Donna Flats",
+        "city": "Robinsonbury",
+        "state": "Florida",
+        "zip": "75351"
+    },
+    "contact": {
+        "phone": "6165506124",
+        "servicePhone": "800478871"
+    },
+    "birthday": "1950-29-03",
+    "ip": "153.247.210.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover shoulder field nice late member student.\nSong for interest receive people store. Ago reason society another window floor world. Next rule situation entire against.",
+        "bio": "Increase theory base interesting song. Former else rest maintain."
+    },
+    "apiKey": "faeadb3d3b3d48013cdbbfbcbcbf56cf02abac9e170325dc4f8cf07f44b71643",
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
