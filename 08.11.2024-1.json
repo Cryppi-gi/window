@@ -1,0 +1,26 @@
+{
+    "name": "Mary Fox",
+    "age": 86,
+    "address": {
+        "street": "Thompson Fort",
+        "city": "Lake Ryanbury",
+        "state": "Texas",
+        "zip": "09244"
+    },
+    "contact": {
+        "phone": "3677915436",
+        "servicePhone": "800776670"
+    },
+    "birthday": "1939-02-01",
+    "ip": "91.60.138.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything only partner lead include central put. Choose raise fill. Meet majority not factor total purpose.\nLeave standard Democrat. Head show risk good. Possible body interest professor practice.",
+        "bio": "Budget later use performance. Make art space. View doctor pass factor mean.\nConference scene how your technology poor professor. Page low wall attack garden remain window. West think American."
+    },
+    "apiKey": "562744fd6ca1ef9afba96590011f6707263ab3d2f219bf14d04a7a548b51934c",
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
