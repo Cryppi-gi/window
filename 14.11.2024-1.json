@@ -1,0 +1,26 @@
+{
+    "name": "Lisa Jones",
+    "age": 23,
+    "address": {
+        "street": "James Lane",
+        "city": "West Johnland",
+        "state": "Hawaii",
+        "zip": "64624"
+    },
+    "contact": {
+        "phone": "+1-615-906-3934x401",
+        "servicePhone": "800970992"
+    },
+    "birthday": "2002-27-04",
+    "ip": "45.109.162.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Fact avoid toward. Believe them he turn. Community game production others same environment.\nCompany art soon parent.\nAt same former policy on prepare. Far cut charge instead major.",
+        "bio": "Eight radio small south late. Protect good town fast least base. Type leader stuff question notice then."
+    },
+    "apiKey": "a911dc1e70f0f0256217823d2430bef6d7ab0bd0bbec1db0b82c0dc967783209",
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
