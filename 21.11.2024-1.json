@@ -1,0 +1,26 @@
+{
+    "name": "Christina Hill",
+    "age": 27,
+    "address": {
+        "street": "Perry Extension",
+        "city": "Kimberlymouth",
+        "state": "Arizona",
+        "zip": "06676"
+    },
+    "contact": {
+        "phone": "380.255.1921",
+        "servicePhone": "800934309"
+    },
+    "birthday": "1998-11-07",
+    "ip": "169.255.29.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Action finish energy use street wall image. Teach soon civil huge we beyond word.\nEvening already respond production them. Boy crime son happy speech. Reflect off her attorney would also.",
+        "bio": "Their option watch foot sense than. Third generation along practice.\nIndividual pass situation receive fish traditional now. Risk those affect board major. Prepare whether news financial."
+    },
+    "apiKey": "9964b6e4f708f883697e5fdbf34df5ab0e5a789e40ae83086bbf99ea819bb18c",
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
