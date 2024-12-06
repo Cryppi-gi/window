@@ -1,0 +1,26 @@
+{
+    "name": "Brandon Smith",
+    "age": 99,
+    "address": {
+        "street": "Smith Springs",
+        "city": "Port Travis",
+        "state": "Idaho",
+        "zip": "92444"
+    },
+    "contact": {
+        "phone": "400.836.5298x22831",
+        "servicePhone": "800656589"
+    },
+    "birthday": "1926-07-11",
+    "ip": "174.236.47.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Price heavy stop attention fast. Write state subject would personal must hand so.\nPerform improve treat growth run themselves near. Product when eight herself effort art.",
+        "bio": "Life evening paper whether like budget product. Quite reflect history still rate. Moment different offer seem scientist."
+    },
+    "apiKey": "4a55b1cd1b8a1f355d0499745f34125f351a6ebfd95011942934d47e06db1535",
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
