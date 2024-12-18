@@ -1,0 +1,26 @@
+{
+    "name": "Rebecca Cordova",
+    "age": 108,
+    "address": {
+        "street": "Jacob Port",
+        "city": "New Lisamouth",
+        "state": "Alaska",
+        "zip": "93204"
+    },
+    "contact": {
+        "phone": "272-977-2034x903",
+        "servicePhone": "800155677"
+    },
+    "birthday": "1917-14-05",
+    "ip": "90.138.230.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Big include political have. Because several young trouble partner. Upon ago world.\nForget position floor quickly Mrs. Exactly kid investment style a.",
+        "bio": "Must rise risk. Individual teach camera. Campaign challenge record wind let."
+    },
+    "apiKey": "de0bb58c9273e00afe077fa511a5723a57e5aa72dd9c98035d600a2b4265e158",
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
