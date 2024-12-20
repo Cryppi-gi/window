@@ -1,0 +1,26 @@
+{
+    "name": "Julie Torres",
+    "age": 35,
+    "address": {
+        "street": "Wiggins Pine",
+        "city": "Laurachester",
+        "state": "Arkansas",
+        "zip": "26593"
+    },
+    "contact": {
+        "phone": "+1-908-396-6225x0674",
+        "servicePhone": "800201122"
+    },
+    "birthday": "1990-05-12",
+    "ip": "91.191.242.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep sound hope national up. Exactly general else protect. Against film late.",
+        "bio": "First see line loss every determine bag. Bill animal here front.\nLeast source where very any because. Exist little learn fire play give. Head order similar even forward bed."
+    },
+    "apiKey": "4c58b343b66aeb75f68eb8065969d1f431915f97b9df73ecf6df0753f7a91246",
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
