@@ -1,0 +1,26 @@
+{
+    "name": "Mr. John Patterson",
+    "age": 111,
+    "address": {
+        "street": "Simmons Stravenue",
+        "city": "North Ellen",
+        "state": "Montana",
+        "zip": "83430"
+    },
+    "contact": {
+        "phone": "001-234-353-9608x32175",
+        "servicePhone": "800606271"
+    },
+    "birthday": "1914-09-12",
+    "ip": "221.144.27.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Car century yet road expert myself board. Population believe white free on member. Always will value everybody beat edge.\nAdult officer animal home lawyer. Fire appear any drive stay ask.",
+        "bio": "Sign ever dog owner common. Call institution country."
+    },
+    "apiKey": "9405c8f0c83c2465bd4bd6118b21c4f09601beb08a37790efbe1e563e055647d",
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
