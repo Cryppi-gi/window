@@ -1,0 +1,26 @@
+{
+    "name": "Gabriel Gonzalez",
+    "age": 115,
+    "address": {
+        "street": "Joseph Loop",
+        "city": "South Dillonbury",
+        "state": "Arkansas",
+        "zip": "64280"
+    },
+    "contact": {
+        "phone": "793.405.7951x6444",
+        "servicePhone": "800600320"
+    },
+    "birthday": "1910-22-09",
+    "ip": "160.2.216.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality score half like unit cell. Work air inside amount role. Study yet much look.\nNice final people forward wall really.",
+        "bio": "Expect down arrive yet eight list indeed. Else peace trouble explain force.\nLand quickly bit hotel affect. Modern reality some answer type her. Parent hour cell southern if hear worry."
+    },
+    "apiKey": "e6dfc83a4c22481373a685428148214cbbc6c6c4207ed0a1f4c26408fd8d21ec",
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
