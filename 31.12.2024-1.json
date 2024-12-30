@@ -1,0 +1,26 @@
+{
+    "name": "Jody Austin",
+    "age": 104,
+    "address": {
+        "street": "Amy Points",
+        "city": "Wellsmouth",
+        "state": "Wisconsin",
+        "zip": "59609"
+    },
+    "contact": {
+        "phone": "+1-651-626-7251x6405",
+        "servicePhone": "800722557"
+    },
+    "birthday": "1921-11-01",
+    "ip": "144.132.82.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Degree scientist series at usually performance seem ground. Admit professor organization significant believe Mr. Machine begin instead east upon front play. Help effect stock art leader product.",
+        "bio": "Mouth point carry board. Bed forget rise food beautiful ask pressure.\nFinal say song later rock teacher. Into century remember since law arrive. Data federal between more between."
+    },
+    "apiKey": "896865c6bade7d816cdf6b67caf462bebf9b4af0b6198d8495cab0187fe60717",
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
