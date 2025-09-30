@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Osborn",
+    "age": 103,
+    "address": {
+        "street": "Bowman Stravenue",
+        "city": "Heathstad",
+        "state": "Alaska",
+        "zip": "54243"
+    },
+    "contact": {
+        "phone": "291.970.1063x3425",
+        "servicePhone": "800437129"
+    },
+    "birthday": "1922-05-06",
+    "ip": "44.246.144.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Early indicate rather no authority debate ahead people. Style another financial vote.\nScore bill indeed moment this. History Democrat challenge safe.",
+        "bio": "Right almost service interest. Matter base effort compare ahead service by name. Whether carry language explain realize."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
