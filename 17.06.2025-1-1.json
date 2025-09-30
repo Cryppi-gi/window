@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Williams",
+    "age": 91,
+    "address": {
+        "street": "Edwards Trail",
+        "city": "New Joel",
+        "state": "West Virginia",
+        "zip": "37307"
+    },
+    "contact": {
+        "phone": "(614)666-9455x70377",
+        "servicePhone": "800320464"
+    },
+    "birthday": "1934-15-01",
+    "ip": "71.203.28.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Official perhaps group role. Prove smile factor. Either star cell unit country policy. Study song news center north indeed positive.",
+        "bio": "Local scene political. Tree talk offer edge each game edge teacher. Parent good tree music.\nName food better nothing budget perform. Performance along trial town."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
