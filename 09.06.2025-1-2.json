@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Woods",
+    "age": 101,
+    "address": {
+        "street": "Garrett Meadow",
+        "city": "Kramertown",
+        "state": "Ohio",
+        "zip": "53980"
+    },
+    "contact": {
+        "phone": "539-712-4662x536",
+        "servicePhone": "800790477"
+    },
+    "birthday": "1924-04-11",
+    "ip": "28.177.77.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Career health indeed onto them coach. Care despite natural very notice difficult.\nAcross send head success adult expect avoid. Senior development without popular. American stop I road professor.",
+        "bio": "Box practice attack police add lead yourself. Similar try themselves nation.\nCenter city feel. Song little cost free rise. Make grow sit adult understand education within difficult."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

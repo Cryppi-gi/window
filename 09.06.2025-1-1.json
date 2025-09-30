@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Cameron Werner",
+    "age": 88,
+    "address": {
+        "street": "Hodges Mission",
+        "city": "Johnville",
+        "state": "Minnesota",
+        "zip": "07213"
+    },
+    "contact": {
+        "phone": "848.227.3054",
+        "servicePhone": "800684543"
+    },
+    "birthday": "1937-18-12",
+    "ip": "12.194.138.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Important specific set what economy realize offer. True happen serve rather sort.\nMother network phone benefit wife despite. Window gun senior system lead. Help training weight admit.",
+        "bio": "Term area young threat hundred. Eight garden even visit. Such theory reflect education program."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

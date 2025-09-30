@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Ford",
+    "age": 91,
+    "address": {
+        "street": "Nicholson Prairie",
+        "city": "New Jenniferburgh",
+        "state": "New York",
+        "zip": "85545"
+    },
+    "contact": {
+        "phone": "001-779-767-1034x64460",
+        "servicePhone": "800120011"
+    },
+    "birthday": "1934-06-01",
+    "ip": "186.219.119.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Job laugh evening despite kid. Ball public right three respond yourself white see. Include of shoulder either agent wait score.",
+        "bio": "Way technology consider window. Rock who remain manage least issue purpose. Process chair power activity firm guess."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
