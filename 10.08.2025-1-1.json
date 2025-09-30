@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Lopez",
+    "age": 20,
+    "address": {
+        "street": "Pruitt Corners",
+        "city": "Erinborough",
+        "state": "New Mexico",
+        "zip": "55401"
+    },
+    "contact": {
+        "phone": "(889)851-3983",
+        "servicePhone": "800473004"
+    },
+    "birthday": "2005-20-11",
+    "ip": "118.18.106.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Store such small could sea bed. Left old line suffer find peace shoulder.\nQuickly issue sense hair education. Nearly gas decide their look but create also. Three anything past somebody service.",
+        "bio": "For return next sign real entire speak. Admit or great couple product society. Growth free avoid fact.\nLeave door campaign difficult. Still tend music group color fast another purpose."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
