@@ -1,0 +1,25 @@
+{
+    "name": "James Gray",
+    "age": 25,
+    "address": {
+        "street": "Matthew Ports",
+        "city": "Wrightberg",
+        "state": "Wyoming",
+        "zip": "02573"
+    },
+    "contact": {
+        "phone": "001-668-603-3911x16288",
+        "servicePhone": "800119283"
+    },
+    "birthday": "2000-17-06",
+    "ip": "130.169.187.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Over cup part office today party gas. A piece pull hand crime. Professor she report air movement opportunity magazine.",
+        "bio": "Factor throughout be similar. Like authority none maintain that threat her painting. Stuff increase ready east expect case woman born."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

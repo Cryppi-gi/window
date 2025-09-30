@@ -1,0 +1,25 @@
+{
+    "name": "Meagan Davis",
+    "age": 11,
+    "address": {
+        "street": "Robin Station",
+        "city": "Thompsonland",
+        "state": "Texas",
+        "zip": "00585"
+    },
+    "contact": {
+        "phone": "225-516-4527x61389",
+        "servicePhone": "800129159"
+    },
+    "birthday": "2014-29-06",
+    "ip": "91.188.58.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly source vote figure road represent someone travel. Onto detail lot father safe. Vote need letter decade tend thousand ask.",
+        "bio": "Trade we with them. Statement step every focus include especially. Put need fly deal.\nField final order better. Perhaps however skill field. Age class herself."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Coleman",
+    "age": 90,
+    "address": {
+        "street": "Holmes Expressway",
+        "city": "Toddfort",
+        "state": "North Dakota",
+        "zip": "90987"
+    },
+    "contact": {
+        "phone": "(533)650-8515",
+        "servicePhone": "800319477"
+    },
+    "birthday": "1935-15-01",
+    "ip": "126.80.173.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Let kind factor camera more measure message safe. Peace water smile hair bring paper such lawyer.\nBenefit together agency individual no hit idea effect.",
+        "bio": "State general finally hotel worker turn everyone. Successful sound into industry go shoulder. Option expert at order. Add support scientist southern environment."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
