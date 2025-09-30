@@ -1,0 +1,25 @@
+{
+    "name": "April Meyer",
+    "age": 49,
+    "address": {
+        "street": "Hall Meadows",
+        "city": "Gibbsborough",
+        "state": "West Virginia",
+        "zip": "98623"
+    },
+    "contact": {
+        "phone": "001-557-935-1837x52597",
+        "servicePhone": "800353969"
+    },
+    "birthday": "1976-14-02",
+    "ip": "158.71.78.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill could describe four. Sound another onto life cup treatment. Summer serious affect affect go very.\nCollege budget south quickly degree. Turn kid movie particularly.",
+        "bio": "How fish space Mr institution bring. Whether financial letter history son air fly.\nAnyone pass condition yard."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
