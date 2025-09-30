@@ -1,0 +1,25 @@
+{
+    "name": "Grant Smith",
+    "age": 113,
+    "address": {
+        "street": "Barbara Tunnel",
+        "city": "Lake Sarahland",
+        "state": "Utah",
+        "zip": "65945"
+    },
+    "contact": {
+        "phone": "952.925.5483x1468",
+        "servicePhone": "800622021"
+    },
+    "birthday": "1912-01-07",
+    "ip": "19.91.126.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Rest teacher morning style exactly surface. Light easy always in appear statement task.",
+        "bio": "Kind current today. Factor part focus matter behind set degree.\nRead whether fast wish term avoid. Always run campaign author its institution every."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
